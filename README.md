@@ -121,7 +121,7 @@ PowerBI-Customer-Churn-Analysis/
 │   └── Churn_Prediction & Key_drivers.png
 │
 └── README.md
-
+```
 ---
 
 ## 🚀 How to Use
@@ -134,6 +134,17 @@ PowerBI-Customer-Churn-Analysis/
 
 > **Note:** Microsoft Power BI Desktop is required to open the `.pbix` file.
 
+---
+
 ## 💼 Business Value
 
-This dashboard helps businesses understand customer churn behavior, identify high-risk customer segments, evaluate revenue loss, and develop data-driven customer retention strategies.
+This dashboard helps businesses:
+
+- **Understand customer churn behavior**
+- **Identify high-risk customer segments**
+- **Evaluate revenue loss caused by customer churn**
+- **Analyze the impact of contracts and services**
+- **Understand billing and payment patterns**
+- **Identify important churn drivers**
+- **Develop data-driven customer retention strategies**
+- **Support better customer experience and business decisions**
